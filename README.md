@@ -1,4 +1,4 @@
-# 🚗 Data-Model Integrated Trajectory Reconstruction & Action Extraction  
+# 🚗 TrajNet:Data-Model Integrated Trajectory Reconstruction & Action Extraction  
 > *"Make noisy trajectories physically-plausible again, and extract driver actions for free."*
 
 [![Python](https://img.shields.io/badge/Python-3.8+-green)](https://www.python.org)  
